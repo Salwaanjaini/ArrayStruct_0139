@@ -3,6 +3,7 @@ using namespace std;
 
 
 int main() {
+
     
 
     //mengisi array dengan loop for
